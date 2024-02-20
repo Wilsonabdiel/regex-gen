@@ -1,0 +1,25 @@
+Regular expressions (regex) are used in a wide variety of applications, including:
+
+1. **Data Validation**: Regex is used to check if the data is in the correct format. For example, it can be used to validate email addresses, phone numbers, and social security numbers²³.
+
+2. **Data Extraction**: Regex can be used to extract specific data from text documents. For example, it can be used to extract all email addresses from a document¹².
+
+3. **Log Parsing**: Regex is used to extract specific information from log files, which is useful for debugging and understanding system behavior².
+
+4. **Search and Replace**: Regex is used in text editors and word processors to find and replace text. It's more powerful than simple search and replace because it can match complex patterns²⁴.
+
+5. **Data Cleaning**: Regex can be used to clean data by removing unwanted characters or formatting².
+
+6. **Web Scraping**: Regex is used to extract data from websites. For example, it can be used to scrape all URLs from a webpage¹.
+
+7. **Syntax Highlighting**: Regex is used in code editors for syntax highlighting, where different parts of the code are colored differently based on their function⁴.
+
+8. **Natural Language Processing (NLP)**: Regex is used for text pre-processing in NLP tasks¹.
+
+Remember, while regex is a powerful tool, it's not always the best solution. For complex patterns or large amounts of data, other methods might be more efficient or easier to use².
+
+Source: Conversation with Bing, 2/20/2024
+(1) Five Practical Use Cases for Regular Expressions. https://blog.openreplay.com/five-practical-use-cases-for-regular-expressions/.
+(2) Applications of Regular Expression. - Ques10. https://www.ques10.com/p/10257/applications-of-regular-expression-1/.
+(3) Applications Of Regular Expressions - Analytics Vidhya. https://www.analyticsvidhya.com/blog/2020/01/4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code/.
+(4) Regular expression - Wikipedia. https://en.wikipedia.org/wiki/Regular_expression.
