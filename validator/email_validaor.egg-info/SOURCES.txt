@@ -8,4 +8,5 @@ email_validaor.egg-info/PKG-INFO
 email_validaor.egg-info/SOURCES.txt
 email_validaor.egg-info/dependency_links.txt
 email_validaor.egg-info/entry_points.txt
+email_validaor.egg-info/requires.txt
 email_validaor.egg-info/top_level.txt
