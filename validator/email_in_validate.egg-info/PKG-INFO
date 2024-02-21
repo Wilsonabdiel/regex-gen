@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: email_in_validate
-Version: 2.1.2
+Version: 2.1.3
 Summary: This Python function, email_validator, checks if an input string is a valid email address
 Home-page: https://github.com/Wilsonabdiel/regex-gen
 Author: Abdiel Wilson

@@ -5,7 +5,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = fh.read().splitlines()
 setup(
     name = 'email_in_validate',
-    version = '2.1.2',  
+    version = '2.1.3',  
     author = 'Abdiel Wilson',
     author_email = 'wilsonabdiel86@gmail.com',
     license = 'MIT License',
@@ -21,8 +21,11 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Operating System :: OS Independent",
     ],
-    entry_points = '''
-        [console_scripts]
-        cooltool=my_tool:cli
-    '''
+   entry_points = {
+    'console_scripts': [
+        'email_in_validate=email_in_validate:cli',
+        ]
+    }
+
+
 )

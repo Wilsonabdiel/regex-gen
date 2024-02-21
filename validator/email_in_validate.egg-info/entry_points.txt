@@ -1,2 +1,2 @@
 [console_scripts]
-cooltool = my_tool:cli
+email_in_validate = email_in_validate:cli
